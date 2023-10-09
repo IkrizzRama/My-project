@@ -1,0 +1,14 @@
+Muhammad Rizky Ramadhani - NPM 2306240143
+
+Refleksi poin B (Nilai kemampuan programming kamu dari skala 1 sampai 5 disertai dengan alasan):
+
+Menurut saya,  nilai kemampuan programming saya dari skala 1 sampai 5 adalah 2.
+Karena saya baru memulai belajar programming pada awal perkuliahan dan hanya mengetahui
+beberapa hal pada python seperti print, input dan hal basic lainnya.
+
+Refleksi poin C (Ekspektasi dan harapan untuk asisten dosen (asdos) DDP1):
+
+Saya memiliki ekspektasi dan harapan agar asisten dosen DDP 1 dapat membantu kami secara maksimal
+sesuai dengan kemampuan awal belajar kami, sehingga baik asisten dosen maupun kami sendiri
+dapat menilai sudah sejauh mana kemampuan programming kami melalui pembelajaran DDP1 maupun melalui
+lab DDP1.	
